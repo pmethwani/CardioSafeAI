@@ -29,6 +29,9 @@ ENV/
 *.swo
 .DS_Store
 
+# Claude Code local settings
+.claude/
+
 # Testing / coverage
 .pytest_cache/
 .coverage
