@@ -144,7 +144,7 @@ The notebook is the source of truth: it reproduces every entry in `results/summa
 ### 4.2 Local (macOS / Linux)
 
 ```bash
-git clone https://github.com/pmethwani-/CardioSafeAI.git
+git clone https://github.com/pmethwani/CardioSafeAI.git
 cd CardioSafeAI
 
 python3.11 -m venv .venv
